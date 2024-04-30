@@ -13,8 +13,10 @@ Done very haphazardly, the labels even use the Windows 3.x font.
 ## :framed_picture: Screenshots
 
 Windows 95 (on 86box)  
+![win95](Screenshots/Windows95.png)
 
-Windows 11 (my PC)
+Windows 11 (my PC)  
+![win11](Screenshots/Windows11.png)
 
 ## :toolbox: Build instructions
 
