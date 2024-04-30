@@ -13,17 +13,31 @@ Done very haphazardly, the labels even use the Windows 3.x font.
 ## :framed_picture: Screenshots
 
 Windows 95 (on 86box)  
+- **CPU**: Intel Pentium 75MHz
+- **Motherboard**: ASUS P/I-P55T2P4
+- **Memory**: 8MB
+- **GPU (2D)**: S3 ViRGE/DX (375)
+- **GPU (3D)**: 3dfx Voodoo
+- **SPU**: SoundBlaster 16
 
 ![win95](Screenshots/Windows95.png)
 
 Windows 11 (my PC)  
+- **CPU**: AMD Ryzen 5 3600
+- **Motherboard**: AORUS B450 ELITE V2
+- **Memory**: 16GB DDR4
+- **GPU (3D)**: RTX 2060
 
 ![win11](Screenshots/Windows11.png)
 
 ## :toolbox: Build instructions
 
-Requires Visual Studio 2022, with the C++ workload installed and the Windows SDK.  
-Building can be done as with any standard C++ project, and the output will be found on the `Debug` or `Release` folder.
+Requires Visual Studio 2022, with the C++ workload installed and the Windows SDK.
+
+Clone [ChicagoCRT](https://github.com/AnalogFeelings/ChicagoCRT), build it, and then copy the output `ChicagoCRT.lib` to a new `Libraries` folder on the root.  
+Replace `Source/Include/ChicagoCRT.h` with an updated version from the repository if needed.
+
+Building can then be done as with any standard C++ project, and the output will be found on the `Debug` or `Release` folder.
 
 ## :sparkles: Bonus
 
