@@ -7,8 +7,7 @@
 [![GitHub Repo stars](https://img.shields.io/github/stars/analogfeelings/chicagosample?label=Stargazers&style=flat-square&logo=github)](https://github.com/AnalogFeelings/chicagosample/stargazers)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/109309123442839534?domain=https%3A%2F%2Ftech.lgbt%2F&style=flat-square&logo=mastodon&logoColor=white&label=Follow%20Me!&color=6364ff)](https://tech.lgbt/@analog_feelings)
 
-This is a sample project for [ChicagoCRT](https://github.com/AnalogFeelings/ChicagoCRT), using the raw Win32 API on C17 with MSVC.  
-Done very haphazardly, the labels even use the Windows 3.x font.
+This is a sample project for [ChicagoCRT](https://github.com/AnalogFeelings/ChicagoCRT), using the raw Win32 API on C17 with MSVC.
 
 ## :framed_picture: Screenshots
 
